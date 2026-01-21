@@ -1,12 +1,28 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+👕 Clothing E-Commerce Website
+A modern clothing e-commerce web application built using React.js, Context API, and Tailwind CSS. The project demonstrates a complete frontend shopping flow with multiple pages, global state management, and a responsive UI.
 
-Currently, two official plugins are available:
+🚀 Features
+Home, Shop, About, and Contact pages
+Product listing and product details pages
+Add to Cart functionality
+Checkout flow
+My Orders page
+Global state management using Context API
+Responsive and clean UI using Tailwind CSS
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Tech Stack
+React.js
+Context API
+Tailwind CSS
+Custom Local JSON for product data
 
-## Expanding the ESLint configuration
+📦 Data Handling
+Product data is stored in a locally created custom JSON file and fetched dynamically into the Shop and Product Details pages.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📱 Responsive Design
+The application is fully responsive and optimized for different screen sizes.
+
+📌 Purpose
+This project was built to showcase frontend development skills, component-based architecture, state management, and real-world e-commerce functionality using React.
